@@ -7,7 +7,7 @@ Securing RESTful APIs with JWT
 
 How to secure a Nodejs RESTful CRUD API using JSON web tokens?
 
-This repository will shows how to use JWT with a component based agile methodology API using mongodb as the database.
+This repository will shows how to use JWT with a component based MVC architecture methodology API using mongodb as the database.
 
 It consist of a component based structure. under the componet ,controller defines interact with routes(postfixes), services contains the all the business logic and dao files is interact with database.
 
